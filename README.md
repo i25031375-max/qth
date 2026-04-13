@@ -1,2 +1,0 @@
-# qth
-my assignment
